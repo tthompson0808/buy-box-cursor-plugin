@@ -1,0 +1,8 @@
+{
+  "name": "buy-box",
+  "owner": { "name": "Agentic Consulting LLC", "email": "tyler@agentconsult.ai" },
+  "metadata": { "description": "Buy-Box for Cursor: saved buying criteria your AI reads before it searches", "version": "0.1.0" },
+  "plugins": [
+    { "name": "buy-box", "source": "./plugins/buy-box", "description": "Saved buying criteria (cars, homes, anything) that AI agents read and score listings against" }
+  ]
+}

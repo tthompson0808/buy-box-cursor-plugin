@@ -1,0 +1,11 @@
+{
+  "name": "buy-box",
+  "displayName": "Buy-Box",
+  "version": "0.1.0",
+  "description": "Saves your buying criteria by category (homes, cars, anything you shop for) so Cursor's agent reads your rules before it searches, then scores listings against them. Sign in with Google; each account sees only its own boxes.",
+  "author": { "name": "Agentic Consulting LLC", "email": "tyler@agentconsult.ai" },
+  "homepage": "https://buybox.agentconsult.ai",
+  "license": "MIT",
+  "keywords": ["buying criteria", "shopping", "real estate", "cars", "mcp"],
+  "logo": "assets/logo.svg"
+}
