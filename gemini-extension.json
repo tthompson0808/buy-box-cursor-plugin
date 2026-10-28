@@ -1,0 +1,10 @@
+{
+  "name": "buy-box",
+  "version": "0.5.1",
+  "description": "Stores your buying criteria by category so AI agents follow your rules before they search.",
+  "mcpServers": {
+    "buy-box": {
+      "httpUrl": "https://buybox.agentconsult.ai/mcp"
+    }
+  }
+}
