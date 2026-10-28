@@ -78,4 +78,4 @@ Buy-Box is free during early access. See the Terms of Service for details.
 
 ## License
 
-The plugin files in this repository are MIT licensed. See [LICENSE](LICENSE). The hosted Buy-Box service is covered by its Terms of Service.
+The plugin files in this repository are MIT licensed. See [LICENSE](../../LICENSE). The hosted Buy-Box service is covered by its Terms of Service.
