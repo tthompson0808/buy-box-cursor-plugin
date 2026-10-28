@@ -11,7 +11,7 @@ Tell your AI assistant your budget, must-haves and dealbreakers once, and it can
 - Save and update a buy box by category. Add or remove one item from a list without retyping the whole box.
 - Load your criteria before a search, so the assistant filters to your rules.
 - Score and rank up to 100 listings at a time against a saved box. Listings that break a numeric limit or mention a dealbreaker go to the end, labeled with the rule they broke. Anything a listing doesn't state is marked unknown, not counted as a pass.
-- Export a box as plain text you can save or share.
+- Export a box as Markdown you can save or share.
 - List your categories and delete a box you no longer need.
 
 The assistant is told to show you loaded criteria and ranked results and ask before acting on them.

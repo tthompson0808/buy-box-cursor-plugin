@@ -28,7 +28,7 @@ Buy-Box stores the user's own buying criteria by category. Explicit user instruc
 
 ## Other requests
 
-- `export_buy_box` returns a box as readable text the user can save or share.
+- `export_buy_box` returns a box as Markdown the user can save or share.
 - `list_categories` shows which categories have a box.
 - `delete_buy_box` removes a box. Confirm the category with the user before deleting.
 
