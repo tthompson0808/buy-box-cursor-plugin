@@ -1,8 +1,19 @@
 {
   "name": "buy-box",
-  "owner": { "name": "Agentic Consulting LLC", "email": "tyler@agentconsult.ai" },
-  "metadata": { "description": "Buy-Box for Cursor: saved buying criteria your AI reads before it searches", "version": "0.1.0" },
+  "owner": {
+    "name": "Agentic Consulting LLC",
+    "email": "tyler@agentconsult.ai"
+  },
+  "metadata": {
+    "description": "Buy-Box for Cursor: saved buying criteria your AI reads before it searches",
+    "version": "0.5.0"
+  },
   "plugins": [
-    { "name": "buy-box", "source": "./plugins/buy-box", "description": "Saved buying criteria (cars, homes, anything) that AI agents read and score listings against" }
+    {
+      "name": "buy-box",
+      "source": "./plugins/buy-box",
+      "description": "Save your buying criteria for homes, cars or anything else, so your AI assistant checks your budget, must-haves and dealbreakers before it searches or ranks listings.",
+      "version": "0.5.0"
+    }
   ]
 }
